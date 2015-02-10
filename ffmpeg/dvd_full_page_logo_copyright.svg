@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   inkscape:export-filename="C:\Users\Ananda PC\OneDrive\Documents\Scripts\kpec\ffmpeg\KP_Video_Watermark_Full_Page_White.png"
+   inkscape:export-filename="C:\Users\Ananda PC\OneDrive\Documents\Scripts\kpec\ffmpeg\KP_Video_Watermark_Full_Page_White_H.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="dvd_full_page_logo_copyright.svg">
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="336.62703"
+     inkscape:cx="220.45949"
      inkscape:cy="237.15729"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -98,10 +98,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="White Text"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
-       style="font-size:20.11629677000000200px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.69999999999999996;fill:#ffffff;fill-opacity:1;stroke:#000000;display:inline;font-family:Sans;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:20.11629677px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
        x="-538.02948"
        y="674.6452"
        id="text3000-4"
@@ -111,5 +111,21 @@
          id="tspan3002-0"
          x="-538.02948"
          y="674.6452">© and ℗ 2015 Karadi Path Education Company Pvt. Ltd.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="White Text Horizontal">
+    <text
+       xml:space="preserve"
+       style="font-size:20.11629677px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
+       x="197.71434"
+       y="550.09943"
+       id="text3000-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3002-0-7"
+         x="197.71434"
+         y="550.09943">© and ℗ 2015 Karadi Path Education Company Pvt. Ltd.</tspan></text>
   </g>
 </svg>
